@@ -4,6 +4,7 @@
 - Validasi (50%)
 - Menambahkan nomor hp terdaftar dengan database berupa JSON
 - Membuat validasi jika nomor hp telah terdaftar
+- Menambahkan tanggal pendaftaran
 
 # Modules Yang Dibutuhkan
 1. express@4.17.1
