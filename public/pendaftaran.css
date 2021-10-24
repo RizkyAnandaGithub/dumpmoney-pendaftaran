@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(240, 240, 240) !important;
+}
+
+.alert-p-1 {
+    font-family: 'Lato', sans-serif;
+    border: 2.5px solid rgb(171, 197, 110);
+}
+
+.ct-1 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.ct-2 {
+    color: grey !important;
+    font-family: 'Poppins', sans-serif;
+}
+
+label {
+    font-family: 'Roboto', sans-serif;
+}
+
+.alert-p-2 {
+    font-family: 'Lato', sans-serif;
+}
